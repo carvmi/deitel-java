@@ -31,9 +31,9 @@
   - Unidade de saída é uma unidade lógica que envia informações que já foram processadas pelo computador para vários dispositivos, de modo que possam ser utilizadas fora da máquina.
   - Unidade de Memória e Unidade de armazenamento secundária são unidades lógicas do computador que retêm informações.
   - Unidade de aritmética e lógica (ALU) é uma unidade lógica do computador que realiza cálculos.
-g) ________ é uma unidade lógica do computador que toma decisões lógicas.
-h) As linguagens mais convenientes para que o programador escreva programas rápida e facilmente são as ________.
-i) A única linguagem que um computador pode entender diretamente é a ________ dele.
+  - Unidade de controle é uma unidade lógica do computador que toma decisões lógicas.
+  - As linguagens mais convenientes para que o programador escreva programas rápida e facilmente são as <b>linguagens de alto nível</b>.
+  - A única linguagem que um computador pode entender diretamente é a ________ dele.
 j) ________ é uma unidade lógica do computador que coordena as atividades de todas as outras unidades lógicas.
 A linguagem de programação ________ é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a
 funcionalidade de servidores da web, fornecer aplicativos a dispositivos de consumo popular e para muitos outros propósitos.
