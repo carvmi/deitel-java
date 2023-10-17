@@ -1,16 +1,16 @@
 # Java: Como Programar 
 
-## Projetos  
+## :file_folder: Projetos  
 -
 
-## Exercícios 
- ## Capítulo 1 - Introdução a computadores, internet e Java
+## :file_folder: Exercícios 
+ ## :pushpin: Capítulo 1 - Introdução a computadores, internet e Java
  ### Revisão
-- Os computadores processam dados sob o controle de conjuntos de instruções chamados programas.
-- As principais unidades lógicas do computador são unidade de entrada, unidade de saída, unidade de memória, unidade de central de processamento, unidade aritmética e lógica, unidade de armazenamento secundário.
-- Os três tipos de linguagens discutidas no capítulo são linguagens de máquina, linguagens de assembly, linguagens de alto nível.
-- Os programas que traduzem programas de linguagem de alto nível em linguagem de máquina são chamados compiladores.
-- Android é um sistema operacional para dispositivos móveis baseados no kernel do Linux e Java.
+- Os computadores processam dados sob o controle de conjuntos de instruções chamados <b>programas</b>.
+- As principais unidades lógicas do computador são <b>unidade de entrada, unidade de saída, unidade de memória, unidade de central de processamento, unidade aritmética e lógica, unidade de armazenamento secundário</b>.
+- Os três tipos de linguagens discutidas no capítulo são <b>linguagens de máquina, linguagens de assembly, linguagens de alto nível</b>.
+- Os programas que traduzem programas de linguagem de alto nível em linguagem de máquina são chamados <b>compiladores</b>.
+- <b>Android</b> é um sistema operacional para dispositivos móveis baseados no kernel do Linux e Java.
 - O software candidato a lançamento ("Release candidate") em geral tem todos os recursos, sendo (supostamente) livre de erros e pronto para uso pela comunidade.
 - O Wii Remote, bem como muitos smartphones, usa um(a) acelerômetro que permite ao dispositivo responder ao movimento.
 - O comando java do JDK executa um aplicativo Java.
