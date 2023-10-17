@@ -28,9 +28,9 @@
   - A unidade lógica que recebe informações de fora do computador para uso por ele é a unidade de entrada.
   - O processo de instrução do computador para resolver um problema específico é chamado programação.
   - A linguagem assembly é um tipo de linguagem de computador que utiliza abreviações em inglês para instruções de linguagem de máquina.
-  - ________ é uma unidade lógica que envia informações que já foram processadas pelo computador para vários dispositivos, de modo que possam ser utilizadas fora da máquina.
-  -  ________ e ________ são unidades lógicas do computador que retêm informações.
-f) ________ é uma unidade lógica do computador que realiza cálculos.
+  - Unidade de saída é uma unidade lógica que envia informações que já foram processadas pelo computador para vários dispositivos, de modo que possam ser utilizadas fora da máquina.
+  - Unidade de Memória e Unidade de armazenamento secundária são unidades lógicas do computador que retêm informações.
+  - Unidade de aritmética e lógica (ALU) é uma unidade lógica do computador que realiza cálculos.
 g) ________ é uma unidade lógica do computador que toma decisões lógicas.
 h) As linguagens mais convenientes para que o programador escreva programas rápida e facilmente são as ________.
 i) A única linguagem que um computador pode entender diretamente é a ________ dele.
