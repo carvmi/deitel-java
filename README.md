@@ -34,10 +34,10 @@
   - <b>Unidade de controle</b> é uma unidade lógica do computador que toma decisões lógicas.
   - As linguagens mais convenientes para que o programador escreva programas rápida e facilmente são as <b>linguagens de alto nível</b>.
   - A única linguagem que um computador pode entender diretamente é a <b>linguagem de máquina</b> dele.
-j) ________ é uma unidade lógica do computador que coordena as atividades de todas as outras unidades lógicas.
-A linguagem de programação ________ é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a
+  - <b>Unidade de Controle</b> é uma unidade lógica do computador que coordena as atividades de todas as outras unidades lógicas.
+  - A linguagem de programação <b>Java</b> é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a
 funcionalidade de servidores da web, fornecer aplicativos a dispositivos de consumo popular e para muitos outros propósitos.
-b) Inicialmente, o ________ tornou-se muito conhecido como a linguagem de desenvolvimento do sistema operacional UNIX.
+b) Inicialmente, o <b>C</b> tornou-se muito conhecido como a linguagem de desenvolvimento do sistema operacional UNIX.
 c) O ________ garante que as mensagens, que consistem em partes sequencialmente numeradas chamadas bytes, sejam adequadamente
 encaminhadas do emissor para o receptor, cheguem intactas e sejam montadas na ordem correta.
 d) A linguagem de programação ________ foi desenvolvida por Bjarne Stroustrup no início dos anos 1980 na Bell Laboratories.
@@ -49,3 +49,5 @@ d) Um(a) ________ é um aplicativo de software que simula um computador, mas ocu
 dos programas que interagem com ela(e).
 e) O ________ transfere os arquivos .class contendo os bytecodes do programa para a memória principal.
 f) O ________ examina bytecodes para assegurar que eles são válidos.
+
+ ## :pushpin: Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores
