@@ -51,13 +51,13 @@ dos programas que interagem com ela(e).
  ## :pushpin: Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores
  ### Revisão
 2.1 Preencha as lacunas em cada uma das seguintes afirmações:
-a) Um(a) ________ começa o corpo de cada método e um(a) ________ termina o corpo de cada método.
-b) Você pode usar a declaração ________ para tomar decisões.
-c) ________ começa em um comentário de fim de linha.
-d) ________, ________ e ________ são chamados espaço em branco.
-e) ________ são reservadas para uso pelo Java.
-f) Aplicativos Java iniciam a execução no método ________.
-g) Os métodos ________, ________ e ________ exibem informações em uma janela de comando.
+- Um(a) ________ começa o corpo de cada método e um(a) ________ termina o corpo de cada método.
+-  Você pode usar a declaração ________ para tomar decisões.
+-  ________ começa em um comentário de fim de linha.
+- ________, ________ e ________ são chamados espaço em branco.
+- ________ são reservadas para uso pelo Java.
+- Aplicativos Java iniciam a execução no método ________.
+- Os métodos ________, ________ e ________ exibem informações em uma janela de comando.
 2.2 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
 a) Os comentários fazem com que o computador imprima o texto depois das // na tela quando o programa executa.
 b) Todas as variáveis devem ser atribuídas a um tipo quando são declaradas.
