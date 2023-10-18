@@ -49,3 +49,32 @@ dos programas que interagem com ela(e).
   - O <b>verificador de bytecode</b> examina bytecodes para assegurar que eles são válidos.
 
  ## :pushpin: Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores
+ ### Revisão
+2.1 Preencha as lacunas em cada uma das seguintes afirmações:
+a) Um(a) ________ começa o corpo de cada método e um(a) ________ termina o corpo de cada método.
+b) Você pode usar a declaração ________ para tomar decisões.
+c) ________ começa em um comentário de fim de linha.
+d) ________, ________ e ________ são chamados espaço em branco.
+e) ________ são reservadas para uso pelo Java.
+f) Aplicativos Java iniciam a execução no método ________.
+g) Os métodos ________, ________ e ________ exibem informações em uma janela de comando.
+2.2 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
+a) Os comentários fazem com que o computador imprima o texto depois das // na tela quando o programa executa.
+b) Todas as variáveis devem ser atribuídas a um tipo quando são declaradas.
+c) O Java considera que as variáveis number e NuMbEr são idênticas.
+d) O operador de resto (%) pode ser utilizado apenas com operandos inteiros.
+e) Os operadores aritméticos *, /, %, + e - têm, todos, o mesmo nível de precedência.
+2.3 Escreva instruções para realizar cada uma das tarefas a seguir:
+a) Declare que as variáveis c, thisIsAVariable, q76354 e number serão do tipo int.
+b) Solicite que o usuário insira um inteiro.
+c) Insira um inteiro e atribua o resultado à variável int value. Suponha que a variável Scanner input possa ser utilizada para ler
+um valor digitado pelo usuário.
+d) Imprima “This is a Java program" em uma linha na janela de comando. Use o método System.out.println.
+e) Imprima “This is a Java program" em duas linhas na janela de comando. A primeira deve terminar com Java. Utilize o método
+System.out.printf e dois especificadores de formato %s.
+f) Se a variável number não for igual a 7, exiba “The variable number is not equal to 7".
+2.4 Identifique e corrija os erros em cada uma das seguintes instruções:
+a) if (c < 7);
+System.out.println(“c is less than 7”);
+b) if (c => 7)
+System.out.println(“c is equal to or greater than 7”);
