@@ -35,19 +35,17 @@
   - As linguagens mais convenientes para que o programador escreva programas rápida e facilmente são as <b>linguagens de alto nível</b>.
   - A única linguagem que um computador pode entender diretamente é a <b>linguagem de máquina</b> dele.
   - <b>Unidade de Controle</b> é uma unidade lógica do computador que coordena as atividades de todas as outras unidades lógicas.
-  - A linguagem de programação <b>Java</b> é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a
-funcionalidade de servidores da web, fornecer aplicativos a dispositivos de consumo popular e para muitos outros propósitos.
+  - A linguagem de programação <b>Java</b> é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a funcionalidade de servidores da web, fornecer aplicativos a dispositivos de consumo popular e para muitos outros propósitos.
   - Inicialmente, o <b>C</b> tornou-se muito conhecido como a linguagem de desenvolvimento do sistema operacional UNIX.
   - O <b>TCP (Transmission Control Protocol)</b> garante que as mensagens, que consistem em partes sequencialmente numeradas chamadas bytes, sejam adequadamente
 encaminhadas do emissor para o receptor, cheguem intactas e sejam montadas na ordem correta.
   - A linguagem de programação <b>C++</b> foi desenvolvida por Bjarne Stroustrup no início dos anos 1980 na Bell Laboratories.
   - Os programas Java normalmente passam por cinco fases: <b>edição, compilação, carregamento, verificação e execução</b>.
-b) Um(a) ________ fornece muitas ferramentas que suportam o processo de desenvolvimento de software, como editores para escrever
-e editar programas, depuradores a fim de localizar erros de lógica em programas e muitos outros recursos.
-c) O comando java invoca ________, que executa programas Java.
-d) Um(a) ________ é um aplicativo de software que simula um computador, mas oculta o sistema operacional e o hardware subjacentes
+  - Um(a) <b>ambiente de desenvolvimento integrado (IDE)</b> fornece muitas ferramentas que suportam o processo de desenvolvimento de software, como editores para escrever e editar programas, depuradores a fim de localizar erros de lógica em programas e muitos outros recursos.
+  - O comando java invoca <b>Máquina Virtual Java (JVM)</b>, que executa programas Java.
+  - Um(a) <b>máquina virtual</b> é um aplicativo de software que simula um computador, mas oculta o sistema operacional e o hardware subjacentes
 dos programas que interagem com ela(e).
-e) O ________ transfere os arquivos .class contendo os bytecodes do programa para a memória principal.
-f) O ________ examina bytecodes para assegurar que eles são válidos.
+  - O <b>carregador de classe da JVM</b> transfere os arquivos .class contendo os bytecodes do programa para a memória principal.
+  - O <b>verificador de bytecode</b> examina bytecodes para assegurar que eles são válidos.
 
  ## :pushpin: Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores
