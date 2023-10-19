@@ -9,11 +9,11 @@
 - Os métodos <b>System.out.print, System.out.println e System.out.printf</b> exibem informações em uma janela de comando.
 ## 2.2 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
 - Os comentários fazem com que o computador imprima o texto depois das // na tela quando o programa executa.
-  <i> Falso. Os comentários não causam nenhuma ação quando o programa executa. Eles são utilizados para documentar programas e melhoram sua legibilidade. </i>
-- Todas as variáveis devem ser atribuídas a um tipo quando são declaradas.
-- O Java considera que as variáveis number e NuMbEr são idênticas.
-- O operador de resto (%) pode ser utilizado apenas com operandos inteiros.
-- Os operadores aritméticos *, /, %, + e - têm, todos, o mesmo nível de precedência.
+  <b><i> Falso. Os comentários não causam nenhuma ação quando o programa executa. Eles são utilizados para documentar programas e melhoram sua legibilidade. </i></b>
+- Todas as variáveis devem ser atribuídas a um tipo quando são declaradas. <b><i>Verdadeiro.</i></b>
+- O Java considera que as variáveis number e NuMbEr são idênticas. <b><i> Falso. Java diferencia letras maiúsculas de minúsculas, então essas variáveis são distintas </i></b>
+- O operador de resto (%) pode ser utilizado apenas com operandos inteiros. <b><i>Falso. O operador de resto também pode ser utilizado com operandos não inteiros em Java.</i></b>
+- Os operadores aritméticos *, /, %, + e - têm, todos, o mesmo nível de precedência. <b><i>Falso. Os operadores *, / e % têm uma precedência mais alta que os operadores + e -.</b></i>
 ## 2.3 Escreva instruções para realizar cada uma das tarefas a seguir:
 - Declare que as variáveis c, thisIsAVariable, q76354 e number serão do tipo int.
 - Solicite que o usuário insira um inteiro.
