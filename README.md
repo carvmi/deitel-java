@@ -7,7 +7,7 @@
  ```markdown
 --- Capítulos:
 ```
--  [cap1] (https://github.com/carvmi/deitel-java/blob/main/teoria/cap1.md)
+-  [cap1](https://github.com/carvmi/deitel-java/blob/main/teoria/cap1.md)
 
  ## :pushpin: Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores
  ### Revisão
