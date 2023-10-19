@@ -6,6 +6,7 @@
 ```
 - [Exibindo múltiplas linhas de texto com uma única instrução](https://github.com/carvmi/deitel-java/blob/main/praticas/Welcome3.java)
 - [Exibindo texto com printf](https://github.com/carvmi/deitel-java/blob/main/praticas/Welcome4.java)
+- [Programa de adição que insere dois números, então exibe a soma deles](https://github.com/carvmi/deitel-java/blob/main/praticas/Addition.java)
   ### :file_folder: Fazendo a Diferença   
   - 
 ## :file_folder: Teoria 
