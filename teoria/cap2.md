@@ -38,8 +38,18 @@
 <b><i>value = input.nextInt();</b></i>
 <br>
 :hammer: Imprima “This is a Java program" em uma linha na janela de comando. Use o método System.out.println.
+<br>
+<b><i>System.out.println(“This is a Java program”);</b></i>
+<br>
 :hammer: Imprima “This is a Java program" em duas linhas na janela de comando. A primeira deve terminar com Java. Utilize o método System.out.printf e dois especificadores de formato %s.
+<br>
+<b><i>System.out.printf(“%s%n%s%n”, “This is a Java”, “program”);</b></i>
+<br>
 :hammer: Se a variável number não for igual a 7, exiba “The variable number is not equal to 7".
+<br>
+<b><i>if (number != 7)</b></i>
+<br>
+<b><i>System.out.println(“The variable number is not equal to 7”);</b></i>
 ## 2.4 Identifique e corrija os erros em cada uma das seguintes instruções:
 - if (c < 7);
 System.out.println(“c is less than 7”);
