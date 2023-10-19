@@ -28,12 +28,15 @@
 <b><i>int q76354;</b></i>
  <br>
 <b><i>int number;</b></i>
+<br>
 - Solicite que o usuário insira um inteiro.
   <br>
-  System.out.print(“Enter an integer: “);
+ <b><i> System.out.print(“Enter an integer: “);</b></i>
   <br>
-- Insira um inteiro e atribua o resultado à variável int value. Suponha que a variável Scanner input possa ser utilizada para ler
-um valor digitado pelo usuário.
+- Insira um inteiro e atribua o resultado à variável int value. Suponha que a variável Scanner input possa ser utilizada para ler um valor digitado pelo usuário.
+  <br>
+<b><i>value = input.nextInt();</b></i>
+<br>
 - Imprima “This is a Java program" em uma linha na janela de comando. Use o método System.out.println.
 - Imprima “This is a Java program" em duas linhas na janela de comando. A primeira deve terminar com Java. Utilize o método System.out.printf e dois especificadores de formato %s.
 - Se a variável number não for igual a 7, exiba “The variable number is not equal to 7".
