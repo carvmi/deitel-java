@@ -16,6 +16,7 @@
 - Os operadores aritméticos *, /, %, + e - têm, todos, o mesmo nível de precedência. <b><i>Falso. Os operadores *, / e % têm uma precedência mais alta que os operadores + e -.</b></i>
 ## 2.3 Escreva instruções para realizar cada uma das tarefas a seguir:
 - Declare que as variáveis c, thisIsAVariable, q76354 e number serão do tipo int.
+<br>
  <b><i>int c, thisIsAVariable, q76354, number;</b></i>
  <br>
  ou
