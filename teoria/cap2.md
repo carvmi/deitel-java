@@ -1,12 +1,12 @@
  ### Revisão
 2.1 Preencha as lacunas em cada uma das seguintes afirmações:
-- Um(a) ________ começa o corpo de cada método e um(a) ________ termina o corpo de cada método.
--  Você pode usar a declaração ________ para tomar decisões.
--  ________ começa em um comentário de fim de linha.
-- ________, ________ e ________ são chamados espaço em branco.
-- ________ são reservadas para uso pelo Java.
-- Aplicativos Java iniciam a execução no método ________.
-- Os métodos ________, ________ e ________ exibem informações em uma janela de comando.
+- Um(a) <b>chave esquerda ({)</b> começa o corpo de cada método e um(a) <b>chave direita (})</b> termina o corpo de cada método.
+- Você pode usar a declaração <b>if</b> para tomar decisões.
+-  <b>//</b> começa em um comentário de fim de linha.
+- <b>Caracteres de espaço, novas linhas e tabulações</b> são chamados espaço em branco.
+- <b>Palavras-chave</b> são reservadas para uso pelo Java.
+- Aplicativos Java iniciam a execução no método <b>main</b>.
+- Os métodos <b>System.out.print, System.out.println e System.out.printf</b> exibem informações em uma janela de comando.
 2.2 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
 a) Os comentários fazem com que o computador imprima o texto depois das // na tela quando o programa executa.
 b) Todas as variáveis devem ser atribuídas a um tipo quando são declaradas.
