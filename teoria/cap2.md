@@ -15,7 +15,7 @@
 - O operador de resto (%) pode ser utilizado apenas com operandos inteiros. <b><i>Falso. O operador de resto também pode ser utilizado com operandos não inteiros em Java.</i></b>
 - Os operadores aritméticos *, /, %, + e - têm, todos, o mesmo nível de precedência. <b><i>Falso. Os operadores *, / e % têm uma precedência mais alta que os operadores + e -.</b></i>
 ## 2.3 Escreva instruções para realizar cada uma das tarefas a seguir:
-- Declare que as variáveis c, thisIsAVariable, q76354 e number serão do tipo int.
+:hammer: Declare que as variáveis c, thisIsAVariable, q76354 e number serão do tipo int.
 <br>
  <b><i>int c, thisIsAVariable, q76354, number;</b></i>
  <br>
@@ -29,17 +29,17 @@
  <br>
 <b><i>int number;</b></i>
 <br>
-- Solicite que o usuário insira um inteiro.
+ :hammer: Solicite que o usuário insira um inteiro.
   <br>
  <b><i> System.out.print(“Enter an integer: “);</b></i>
   <br>
-- Insira um inteiro e atribua o resultado à variável int value. Suponha que a variável Scanner input possa ser utilizada para ler um valor digitado pelo usuário.
+:hammer: Insira um inteiro e atribua o resultado à variável int value. Suponha que a variável Scanner input possa ser utilizada para ler um valor digitado pelo usuário.
   <br>
 <b><i>value = input.nextInt();</b></i>
 <br>
-- Imprima “This is a Java program" em uma linha na janela de comando. Use o método System.out.println.
-- Imprima “This is a Java program" em duas linhas na janela de comando. A primeira deve terminar com Java. Utilize o método System.out.printf e dois especificadores de formato %s.
-- Se a variável number não for igual a 7, exiba “The variable number is not equal to 7".
+:hammer: Imprima “This is a Java program" em uma linha na janela de comando. Use o método System.out.println.
+:hammer: Imprima “This is a Java program" em duas linhas na janela de comando. A primeira deve terminar com Java. Utilize o método System.out.printf e dois especificadores de formato %s.
+:hammer: Se a variável number não for igual a 7, exiba “The variable number is not equal to 7".
 ## 2.4 Identifique e corrija os erros em cada uma das seguintes instruções:
 - if (c < 7);
 System.out.println(“c is less than 7”);
