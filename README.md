@@ -12,10 +12,4 @@
 
 
 
-System.out.print("*");
-System.out.println("***");
-System.out.println("*****");
-System.out.print("****");
-System.out.println("**");
-2.23 O que o seguinte código imprime?
-System.out.printf("%s%n%s%n%s%n", "*", "***", "*****");
+
