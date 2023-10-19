@@ -29,6 +29,9 @@
  <br>
 <b><i>int number;</b></i>
 - Solicite que o usuário insira um inteiro.
+  <br>
+  System.out.print(“Enter an integer: “);
+  <br>
 - Insira um inteiro e atribua o resultado à variável int value. Suponha que a variável Scanner input possa ser utilizada para ler
 um valor digitado pelo usuário.
 - Imprima “This is a Java program" em uma linha na janela de comando. Use o método System.out.println.
