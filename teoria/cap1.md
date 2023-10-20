@@ -40,3 +40,10 @@ encaminhadas do emissor para o receptor, cheguem intactas e sejam montadas na or
 dos programas que interagem com ela(e).
   - O <b>carregador de classe da JVM</b> transfere os arquivos .class contendo os bytecodes do programa para a memória principal.
   - O <b>verificador de bytecode</b> examina bytecodes para assegurar que eles são válidos.
+## :speech_balloon: Explique as duas fases de compilação de programas Java.
+<br>
+<i><b>Compilação: Nesta fase, o código-fonte escrito pelo programador é convertido em bytecode Java(para a portabilidade entre JVMs em diferentes plataformas de computador)</b></i>
+<br>
+<i><b>Execução: Nesta fase, os bytecodes são traduzidos em linguagem de máquina (com um compilador just in time (JIT), como o compilador Java HotSpot) para o computador real no qual o programa é executado.</b></i>
+
+## :speech_balloon:  Um dos objetos mais comuns do mundo é um relógio de pulso. Discuta como cada um dos seguintes termos e conceitos se aplicam à noção de um relógio: objeto, atributos, comportamentos, classe, herança (considere, por exemplo, o alarme dele), modelagem, mensagens, encapsulamento, interface e ocultamento de informações.
