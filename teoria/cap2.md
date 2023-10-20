@@ -67,10 +67,10 @@ System.out.println(“c is equal to or greater than 7”);
 ## 2.7 Preencha as lacunas em cada uma das seguintes afirmações:
 - <b>Comentários</b> são utilizados para documentar um programa e aprimorar sua legibilidade.
 - Uma decisão pode ser tomada em um programa Java com um(a) <b>if</b>.
-- Os cálculos normalmente são realizados pelas instruções ________.
-- Os operadores aritméticos com a mesma precedência da multiplicação são ________ e ________.
-- Quando parênteses em uma expressão aritmética estão aninhados, o conjunto de parênteses ________ é avaliado primeiro.
-- Uma posição na memória do computador que pode conter valores diferentes várias vezes ao longo da execução de um programa é chamada ________.
+- Os cálculos normalmente são realizados pelas instruções <b>aritméticas/matemáticas</b>.
+- Os operadores aritméticos com a mesma precedência da multiplicação são <b>divisão (/) e módulo(%) </b>. [2].
+- Quando parênteses em uma expressão aritmética estão aninhados, o conjunto de parênteses <b>interno</b> é avaliado primeiro.
+- Uma posição na memória do computador que pode conter valores diferentes várias vezes ao longo da execução de um programa é chamada <b>variável</b>.
 ## 2.8 Escreva instruções Java que realizem cada uma das seguintes tarefas:
 - Exibir a mensagem “Enter an integer: “, deixando o cursor na mesma linha.
 - Atribuir o produto de variáveis b e c para a variável a.
