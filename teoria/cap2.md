@@ -51,14 +51,22 @@
 <br>
 <b><i>System.out.println(“The variable number is not equal to 7”);</b></i>
 ## 2.4 Identifique e corrija os erros em cada uma das seguintes instruções:
-- if (c < 7);
+:hammer: if (c < 7);
+<br>
 System.out.println(“c is less than 7”);
-- if (c => 7)
+<br>
+<b><i>Erro: o ponto e vírgula depois do parêntese direito da condição (c < 7) no if.
+Correção: remova o ponto e vírgula depois do parêntese direito. [Observação: como resultado, a instrução de saída executará independentemente
+de a condição em if ser verdadeira.] </b></i>
+:hammer: if (c => 7)
+<br>
 System.out.println(“c is equal to or greater than 7”);
+<br>
+<b><i>Erro: o operador relacional => é incorreto. Correção: altere => para >=.</b></i>
 ### Mais Exercícios
 ## 2.7 Preencha as lacunas em cada uma das seguintes afirmações:
-- ________ são utilizados para documentar um programa e aprimorar sua legibilidade.
-- Uma decisão pode ser tomada em um programa Java com um(a) ________.
+- <b>Comentários</b> são utilizados para documentar um programa e aprimorar sua legibilidade.
+- Uma decisão pode ser tomada em um programa Java com um(a) <b>if</b>.
 - Os cálculos normalmente são realizados pelas instruções ________.
 - Os operadores aritméticos com a mesma precedência da multiplicação são ________ e ________.
 - Quando parênteses em uma expressão aritmética estão aninhados, o conjunto de parênteses ________ é avaliado primeiro.
