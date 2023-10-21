@@ -11,7 +11,7 @@
  
 
   ### :file_folder: Fazendo a Diferença
-  - [Emissão de Carbono]
+  - [Calculadora de Emissão de Carbono]
 ## :file_folder: Teoria 
  ```markdown
 --- Capítulos:
