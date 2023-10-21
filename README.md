@@ -10,8 +10,8 @@
 - [Programa compara os números e exibe os resultados que são verdadeiros](https://github.com/carvmi/deitel-java/blob/main/praticas/Comparison.java)
  
 
-  ### :file_folder: Fazendo a Diferença   
-  - 
+  ### :file_folder: Fazendo a Diferença
+  - [Emissão de Carbono]
 ## :file_folder: Teoria 
  ```markdown
 --- Capítulos:
