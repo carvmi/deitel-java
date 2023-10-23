@@ -60,11 +60,8 @@ public class CalculadoraEmissaoCarbono {
         }
         
         // Calcular a emissão de carbono
-        
-         double emissaoCarbono = distanciaPercorrida * fatorEmissao;
-         System.out.println("Emissão de Carbono: " + emissaoCarbono + " kg de CO2 equivalente");
-         scanner.close();
-         return emissaoCarbono;
+         double emissaoCarbonoTransporte = distanciaPercorrida * fatorEmissao;
+         return emissaoCarbonoTransporte;
     }
 
     public static double calcularEmissaoEletricidade() {
@@ -81,17 +78,10 @@ public class CalculadoraEmissaoCarbono {
         double fatorEmissao = scanner.nextDouble();
 
         // Calcular a emissão de carbono
-        double emissaoCarbono = calcularEmissaoEletricidade(consumoEletricidade, fatorEmissao);
-
-        System.out.println("Emissão de Carbono: " + emissaoCarbono + " kg de CO2 equivalente");
-        scanner.close();
-        return emissaoCarbono;
+        double emissaoCarbonoEletricidade = consumoEletricidade * fatorEmissao;
+        return emissaoCarbonoEletricidade;
     }
 
-    public static double calcularEmissaoEletricidade(double consumoEletricidade, double fatorEmissao) {
-        // Fórmula para calcular a emissão de carbono: Consumo (kWh) * Fator de Emissão (kg CO2/kWh)
-        return consumoEletricidade * fatorEmissao;
-    }
 
     public static double calcularEmissaoGas() {
         Scanner scanner = new Scanner(System.in);
@@ -102,15 +92,9 @@ public class CalculadoraEmissaoCarbono {
 
         // Fator de emissão de gás (em kg de CO2 equivalente por metro cúbico)
         double fatorEmissaoGas = 2.0; // Substitua pelo fator de emissão real
-
-        double emissaoCarbonoGas = calcularEmissaoGas(consumoGas, fatorEmissaoGas);
-
-        System.out.println("Emissão de Carbono do uso de gás: " + emissaoCarbonoGas + " kg de CO2 equivalente");
-        scanner.close();
+        
+         // Calcular a emissão de carbono
+        double emissaoCarbonoGas = consumoGas * fatorEmissaoGas;
         return emissaoCarbonoGas;
-    }
-
-    public static double calcularEmissaoGas(double consumoGas, double fatorEmissaoGas) {
-        return consumoGas * fatorEmissaoGas;
     }
 }
