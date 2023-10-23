@@ -1,23 +1,23 @@
 // Programa de adição que insere dois números, então exibe a soma deles.
-3 ïimport java.util.Scanner; // programa utiliza a classe Scannerÿ
-4
-5 public class Addition
-6 {
-7 // método main inicia a execução do aplicativo Java
-8 public static void main(String[] args)
-9 {
-10 ï// cria um Scanner para obter entrada a partir da janela de comandoÿ
-11 ïScanner input = new Scanner(System.in); ÿ
-12
-13 ïint number1; // primeiro número a somar ÿ
-14 ïint number2; // segundo número a somar ÿ
-15 ïint sum; // soma de number1 e number2 ÿ
-16
-17 System.out.print("Enter first integer: "); // prompt
-18 ïnumber1 = input.nextInt(); // lê primeiro o número fornecido pelo usuário ÿ
-19
-20 System.out.print("Enter second integer: "); // prompt
-21 ïnumber2 = input.nextInt(); // lê o segundo número fornecido pelo usuário ÿ
+import java.util.Scanner; // programa utiliza a classe Scanner
+
+public class Addition
+{
+// método main inicia a execução do aplicativo Java
+public static void main(String[] args)
+{
+// cria um Scanner para obter entrada a partir da janela de comando
+Scanner input = new Scanner(System.in); 
+
+int number1; // primeiro número a somar 
+int number2; // segundo número a somar 
+int sum; // soma de number1 e number2 
+
+System.out.print("Enter first integer: "); // prompt
+number1 = input.nextInt(); // lê primeiro o número fornecido pelo usuário 
+
+System.out.print("Enter second integer: "); // prompt
+number2 = input.nextInt(); // lê o segundo número fornecido pelo usuário 
 22
 23 ïsum = number1 + number2; // soma os números, depois armazena o total em sumÿ
 24
