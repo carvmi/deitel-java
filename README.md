@@ -11,7 +11,7 @@
  
 
   ### :file_folder: Fazendo a Diferença
-  - [Calculadora de Emissão de Carbono]
+  - [Calculadora de Emissão de Carbono](https://github.com/carvmi/deitel-java/blob/main/praticas/CalculadoraEmissaoCarbono.java)
 ## :file_folder: Teoria 
  ```markdown
 --- Capítulos:
