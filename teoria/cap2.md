@@ -74,6 +74,7 @@ System.out.println(“c is equal to or greater than 7”);
 ## 2.8 Escreva instruções Java que realizem cada uma das seguintes tarefas:
 - Exibir a mensagem “Enter an integer: “, deixando o cursor na mesma linha.
 <b><i>System.out.print("Enter an integer: "); // Imprime a mensagem sem quebra de linha</b></i>
+<br>
 - Atribuir o produto de variáveis b e c para a variável a.
 <b><i> int b = 5; // Substitua 5 pelo valor desejado para b </b></i>
 <br>
@@ -82,8 +83,9 @@ System.out.println(“c is equal to or greater than 7”);
 <b><i>int a = b * c;</b></i>
 <br>
 <b><i>System.out.println("O produto de b e c é: " + a);</b></i>
-
+<br>
 - Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
+<br>
 <b><i>// Este programa executa um cálculo de exemplo de folha de pagamento.</b></i>
 <br>
 <b><i>
@@ -93,6 +95,7 @@ System.out.println(“c is equal to or greater than 7”);
    Os resultados são exibidos no final.
 */
 </b></i>
+<br>
 ## 2.9 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
 - Operadores Java são avaliados da esquerda para a direita.
 - Os seguintes nomes são todos de variável válidos: _under_bar_, m928134, t5, j7, her_sales$, his_$account_total, a, b$, c, z e z2.
