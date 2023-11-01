@@ -98,10 +98,10 @@ System.out.println(“c is equal to or greater than 7”);
 - Uma expressão aritmética Java válida sem parênteses é avaliada da esquerda para a direita. <b><i>Falso. Em Java, uma expressão aritmética válida sem parênteses é avaliada seguindo a ordem de precedência dos operadores. Por exemplo, em uma expressão como 2 + 3 * 4, a multiplicação é avaliada antes da adição.</b></i>
 - Os seguintes nomes são todos de variável inválidos: 3g, 87, 67h2, h22 e 2h. <b><i>Falso. Em Java, um nome de variável não pode começar com um dígito. Além disso, o nome da variável é sensível a maiúsculas e minúsculas. </b></i>
 ## 2.10 Supondo que x = 2 e y = 3, o que cada uma das instruções a seguir exibe?
-- System.out.printf(“x = %d%n”, x);
-- System.out.printf(“Value of %d + %d is %d%n”, x, x, (x + x));
-- System.out.printf(“x =”);
-- System.out.printf(“%d = %d%n”, (x + y), (y + x));
+- System.out.printf(“x = %d%n”, x); <b><i>Exibe "x = 2", já que %d é um marcador de formato para um valor inteiro e %n é um marcador de nova linha.</b></i>
+- System.out.printf(“Value of %d + %d is %d%n”, x, x, (x + x)); <b><i>Exibe "Value of 2 + 2 is 4", pois os valores de x são substituídos nos marcadores de formato, e o resultado da soma (x + x) também é exibido.</b></i>
+- System.out.printf(“x =”); <b><i>Exibe "x =", que é uma string literal sem marcadores de formato.</b></i>
+- System.out.printf(“%d = %d%n”, (x + y), (y + x)); <b><i>Exibe "5 = 5", pois os valores de (x + y) e (y + x) são substituídos nos marcadores de formato. Ambas as expressões têm o valor 5, portanto, o resultado é "5 = 5".</b></i>
 ## 2.11 Quais instruções Java a seguir contêm variáveis cujos valores são modificados?
 - p = i + j + k + 7;
 - System.out.println(“variables whose values are modified”);
