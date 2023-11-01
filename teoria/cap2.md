@@ -93,10 +93,10 @@ System.out.println(“c is equal to or greater than 7”);
 */
 </b></i>
 ## 2.9 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
-- Operadores Java são avaliados da esquerda para a direita.
-- Os seguintes nomes são todos de variável válidos: _under_bar_, m928134, t5, j7, her_sales$, his_$account_total, a, b$, c, z e z2.
-- Uma expressão aritmética Java válida sem parênteses é avaliada da esquerda para a direita.
-- Os seguintes nomes são todos de variável inválidos: 3g, 87, 67h2, h22 e 2h.
+- Operadores Java são avaliados da esquerda para a direita. <b><i>Verdadeira</b></i>
+- Os seguintes nomes são todos de variável válidos: _under_bar_, m928134, t5, j7, her_sales$, his_$account_total, a, b$, c, z e z2.  <b><i>Verdadeira</b></i>
+- Uma expressão aritmética Java válida sem parênteses é avaliada da esquerda para a direita. <b><i>Falso. Em Java, uma expressão aritmética válida sem parênteses é avaliada seguindo a ordem de precedência dos operadores. Por exemplo, em uma expressão como 2 + 3 * 4, a multiplicação é avaliada antes da adição.</b></i>
+- Os seguintes nomes são todos de variável inválidos: 3g, 87, 67h2, h22 e 2h. <b><i>Falso. Em Java, um nome de variável não pode começar com um dígito. Além disso, o nome da variável é sensível a maiúsculas e minúsculas. </b></i>
 ## 2.10 Supondo que x = 2 e y = 3, o que cada uma das instruções a seguir exibe?
 - System.out.printf(“x = %d%n”, x);
 - System.out.printf(“Value of %d + %d is %d%n”, x, x, (x + x));
