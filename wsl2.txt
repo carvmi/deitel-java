@@ -6,3 +6,5 @@
 
 3. Configuração com IDE
 [Intellij e Java - Integrado JDK WSL Linux](https://www.youtube.com/watch?v=0_e9Egeyk2E)
+
+OBS: Abrindo a distribuição instalada: wsl -d <nome_da_distribuição>
