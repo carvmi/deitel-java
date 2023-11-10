@@ -1,0 +1,8 @@
+1. O que é WLS?
+[Entendendo WSL2 | E uma curta história sobre Windows NT](https://www.youtube.com/watch?v=28jHuWBi72w)
+
+2. Instalação WSL por Prompt ou PowerShell
+[Tutorial Microsoft](https://learn.microsoft.com/pt-br/windows/wsl/install)
+
+3. Configuração com IDE
+[Intellij e Java - Integrado JDK WSL Linux](https://www.youtube.com/watch?v=0_e9Egeyk2E)
