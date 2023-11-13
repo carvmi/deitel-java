@@ -20,4 +20,5 @@
 -  [Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores](https://github.com/carvmi/deitel-java/blob/main/teoria/cap2.md)
 
 
-
+### Outros exercícios/conteúdos
+- [Curso Java Básico - Loiane](https://github.com/loiane/curso-java-basico/tree/master)
