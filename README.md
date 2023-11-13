@@ -22,3 +22,4 @@
 
 ### Outros exercícios/conteúdos
 - [Curso Java Básico - Loiane](https://github.com/loiane/curso-java-basico/tree/master)
+- [Estrutura de Dados e Algoritmos](https://github.com/loiane/estrutura-dados-algoritmos-java)
