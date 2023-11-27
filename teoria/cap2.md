@@ -107,7 +107,7 @@ System.out.println(“c is equal to or greater than 7”);
 - System.out.println(“variables whose values are modified”);
 - System.out.println(“a = 5”);
 - value = input.nextInt();
-  <b><i>Resposta: p = i + j + k + 7; (o valor de p é modificado), value = input.nextInt(); (o valor de value é modificado com o valor lido a partir da entrada)</b></i>
+- <b><i>Resposta: p = i + j + k + 7; (o valor de p é modificado), value = input.nextInt(); (o valor de value é modificado com o valor lido a partir da entrada)</b></i>
 
 ## 2.12 Dado que y = ax3 + 7, quais das seguintes alternativas são instruções Java corretas para essa equação?
 - y = a * x * x * x + 7;
