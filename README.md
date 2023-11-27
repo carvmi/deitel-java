@@ -18,6 +18,7 @@
 ```
 -  [Capítulo 1 Introdução a computadores, internet e Java](https://github.com/carvmi/deitel-java/blob/main/teoria/cap1.md)
 -  [Capítulo 2 Introdução a aplicativos Java – entrada/saída e operadores](https://github.com/carvmi/deitel-java/blob/main/teoria/cap2.md)
+-  [Capitúlo 3 - Introdução a classes, objetos, métodos e strings](https://github.com/carvmi/deitel-java/blob/main/teoria/cap3.md)
 
 
 ### Outros exercícios/conteúdos
