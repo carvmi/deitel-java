@@ -140,6 +140,8 @@ System.out.println(“c is equal to or greater than 7”);
      - 324
 ## 2.19 O que o seguinte código imprime?
 - System.out.printf("*%n**%n***%n****%n*****%n");
+          - Cada linha tem um número crescente de asteriscos, indo de uma estrela na primeira linha até cinco estrelas na última linha.
+          - %n é usado para representar uma nova linha na formatação de string.
 ## 2.20 O que o seguinte código imprime?
 - System.out.println("*");
 - System.out.println("***");
