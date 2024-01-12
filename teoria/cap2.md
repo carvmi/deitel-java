@@ -109,12 +109,12 @@ System.out.println(“c is equal to or greater than 7”);
 - value = input.nextInt();
 - <b><i>Resposta: p = i + j + k + 7; (o valor de p é modificado), value = input.nextInt(); (o valor de value é modificado com o valor lido a partir da entrada)</b></i>
 
-## 2.12 Dado que y = ax3 + 7, quais das seguintes alternativas são instruções Java corretas para essa equação?
-- y = a * x * x * x + 7;
+## 2.12 Dado que y = ax³ + 7, quais das seguintes alternativas são instruções Java corretas para essa equação?
+- <i><b>y = a * x * x * x + 7;</b></i>
 - y = a * x * x * (x + 7);
 - y = (a * x) * x * (x + 7);
 - y = (a * x) * x * x + 7;
-- y = a * (x * x * x) + 7;
+- <i><b>y = a * (x * x * x) + 7;</b></i>
 - y = a * x * (x * x + 7);
 ## 2.13 Declare a ordem de avaliação dos operadores em cada uma das seguintes instruções Java e mostre o valor de x depois que cada instrução
 é realizada:
