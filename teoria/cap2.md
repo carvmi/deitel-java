@@ -119,8 +119,25 @@ System.out.println(“c is equal to or greater than 7”);
 ## 2.13 Declare a ordem de avaliação dos operadores em cada uma das seguintes instruções Java e mostre o valor de x depois que cada instrução
 é realizada:
 - x = 7 + 3 * 6 / 2 - 1;
+     - A precedência mais alta é da multiplicação (*) e divisão (/).
+     - Depois vem a adição (+) e subtração (-).
+     - 7 + (3 * 6) / 2 - 1
+     - 7 + 18 / 2 - 1
+     - 7 + 9 - 1
+     - 15
 - x = 2 % 2 + 2 * 2 - 2 / 2;
+     - A precedência mais alta é da multiplicação (*), divisão (/) e módulo (%).
+     - Em caso de operadores com a mesma precedência, a associatividade define a ordem. Neste caso, todos têm associatividade da esquerda para a direita.
+     - (2 % 2) + 2 * 2 - 2 / 2
+     - 0 + 4 - 1
+     - 3
 - x = (3 * 9 * (3 + (9 * 3 / (3))));
+     - A precedência mais alta é da multiplicação (*) e divisão (/).
+     - Em seguida, temos a adição (+).
+     - (3 * 9 * (3 + 27 / 3))
+     - (3 * 9 * (3 + 9))
+     - (3 * 9 * 12)
+     - 324
 ## 2.19 O que o seguinte código imprime?
 - System.out.printf("*%n**%n***%n****%n*****%n");
 ## 2.20 O que o seguinte código imprime?
